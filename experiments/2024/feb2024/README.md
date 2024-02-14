@@ -3,4 +3,4 @@
 * multiple features per time t
 
 
-<img src="RNN_CIVS.jpg" height="300" width="auto" >
+<img src="RNN_CIVS.jpg" height="500" width="auto" >
